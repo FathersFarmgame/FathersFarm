@@ -1,0 +1,21 @@
+unity/
+└── FathersFarm/
+    ├── Assets/
+    │   ├── FathersFarm/
+    │   │   ├── Runtime/
+    │   │   │   ├── Core/
+    │   │   │   ├── Gameplay/
+    │   │   │   ├── Infrastructure/
+    │   │   │   ├── Presentation/
+    │   │   │   └── Shared/
+    │   │   ├── Editor/
+    │   │   ├── Tests/
+    │   │   └── ScriptableObjects/
+    │   ├── Art/
+    │   ├── Audio/
+    │   ├── Materials/
+    │   ├── Prefabs/
+    │   ├── Scenes/
+    │   └── UI/
+    ├── Packages/
+    └── ProjectSettings/
