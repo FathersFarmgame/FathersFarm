@@ -1,0 +1,11 @@
+FathersFarm.Core.asmdef
+
+FathersFarm.Gameplay.asmdef
+
+FathersFarm.Infrastructure.asmdef
+
+FathersFarm.Presentation.asmdef
+
+FathersFarm.Shared.asmdef
+
+FathersFarm.Tests.asmdef
